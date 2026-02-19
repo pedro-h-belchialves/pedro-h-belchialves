@@ -1,22 +1,24 @@
 # 👋 Pedro Alves
 
-Backend Engineer focused on scalable systems, distributed workloads, and production-ready architecture.
+Fullstack Engineer focused on building scalable systems, modern web applications, and production-ready architectures.
 
 ---
 
 ## 🚀 About me
 
-Software Engineer with 5+ years of experience designing and building scalable backend systems, APIs, and asynchronous architectures.
+I'm a Fullstack Software Engineer with 5+ years of experience designing and building scalable web applications, backend systems, and modern frontend interfaces.
 
-My focus is backend engineering, system design, and performance. I work with queues, workers, clean architecture, and modern engineering practices to build resilient systems.
+My focus is creating reliable, scalable, and maintainable systems using modern engineering practices, clean architecture, and asynchronous processing.
 
-I also work with AI, LLM integrations, and product-focused engineering.
+I work across the full stack, from system architecture and backend services to frontend interfaces and user experience.
 
 ---
 
 ## 🧠 Tech Stack
 
-### Backend
+### Fullstack
+
+#### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -26,15 +28,7 @@ I also work with AI, LLM integrations, and product-focused engineering.
 
 ---
 
-### Database & ORM
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
-
----
-
-### Frontend
+#### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -42,50 +36,76 @@ I also work with AI, LLM integrations, and product-focused engineering.
 
 ---
 
-### AI / Machine Learning
-![LLM](https://img.shields.io/badge/LLM-Engineering-purple?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange?style=for-the-badge)
-![AI Systems](https://img.shields.io/badge/AI-Systems-blueviolet?style=for-the-badge)
+#### Database & ORM
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
 
 ---
 
-### Architecture & Engineering
-![Clean Architecture](https://img.shields.io/badge/Clean-Architecture-blueviolet?style=for-the-badge)
-![DDD](https://img.shields.io/badge/DDD-Domain--Driven--Design-red?style=for-the-badge)
-![SOLID](https://img.shields.io/badge/SOLID-Principles-important?style=for-the-badge)
-![Scalability](https://img.shields.io/badge/Scalable-Systems-success?style=for-the-badge)
-![Distributed Systems](https://img.shields.io/badge/Distributed-Systems-orange?style=for-the-badge)
+## AI & Machine Learning
+
+- LLM integrations
+- AI-powered systems
+- Machine learning integrations
+- Automation with AI
+- Intelligent workflows
 
 ---
 
-### UI / UX Design
-![UI Design](https://img.shields.io/badge/UI-Design-blue?style=for-the-badge)
-![UX Design](https://img.shields.io/badge/UX-Design-purple?style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-Design-orange?style=for-the-badge)
+## Architecture
+
+- Clean Architecture
+- Domain-Driven Design (DDD)
+- SOLID principles
+- Distributed systems
+- Queue-based processing
+- Scalable system design
 
 ---
 
-### DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-blue?style=for-the-badge)
+## DevOps & Infrastructure
+
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+- Docker
+- Linux
+- CI/CD
+- Containerized environments
+- Reverse proxy architecture
+- Production deployment
+
+---
+
+## UI / UX Design
+
+- User-centered interface design
+- UI system design
+- UX-focused development
+- Figma workflows
+- Product-focused engineering
 
 ---
 
 ## ⚙️ Systems I Build
 
+- Fullstack web applications  
 - Scalable backend systems  
 - Distributed processing systems  
 - Queue-based architectures  
 - Video processing pipelines  
 - REST APIs  
-- AI-powered systems  
-- LLM-integrated applications  
+- AI-integrated systems  
 
 ---
 
-## 🏗️ Architecture mindset
+## 🏗️ Engineering mindset
+
+<div align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedro-h-belchialve&show_icons=true&theme=tokyonight" height="150" alt="GitHub stats graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=pedro-h-belchialve&layout=compact&theme=tokyonight" height="150" alt="Top languages graph" />
+</div>
 
 ```text
-Client → API → Queue → Workers → Database / Storage
+Client → Frontend → API → Queue → Workers → Database
