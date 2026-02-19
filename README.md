@@ -67,8 +67,8 @@ I work across the full stack, from system architecture and backend services to f
 
 ## DevOps & Infrastructure
 
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
+- Nginx
 - Docker
 - Linux
 - CI/CD
