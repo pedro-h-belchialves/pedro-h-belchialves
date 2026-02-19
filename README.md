@@ -103,9 +103,7 @@ I work across the full stack, from system architecture and backend services to f
 ## 🏗️ Engineering mindset
 
 <div align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedro-h-belchialve&show_icons=true&theme=tokyonight" height="150" alt="GitHub stats graph" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=pedro-h-belchialve&layout=compact&theme=tokyonight" height="150" alt="Top languages graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedro-h-belchialves&show_icons=true&theme=tokyonight" height="150" alt="GitHub stats graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=pedro-h-belchialves&layout=compact&theme=tokyonight" height="150" alt="Top languages graph" />
 </div>
 
-```text
-Client → Frontend → API → Queue → Workers → Database
