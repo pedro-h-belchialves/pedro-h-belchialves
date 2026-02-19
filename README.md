@@ -28,6 +28,8 @@ I also have experience with frontend technologies, which helps me build complete
 
 ### Databases
 - PostgreSQL
+- MySQL
+- Prisma ORM
 - SQL performance and optimization
 - Database design
 
@@ -47,6 +49,7 @@ I also have experience with frontend technologies, which helps me build complete
 
 ### DevOps
 - Docker
+- Nginx
 - Linux
 - CI/CD
 - Git
