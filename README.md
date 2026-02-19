@@ -1,108 +1,72 @@
-# Pedro Alves
+# 👋 Pedro Alves
 
-Backend Engineer focused on building scalable, reliable and production-ready systems.
-
-I specialize in backend architecture, asynchronous processing, APIs, and system scalability. My goal is to design systems that are not only functional, but resilient, maintainable, and prepared for growth.
+Backend Engineer focused on scalable systems, asynchronous processing, and production-ready architecture.
 
 ---
 
-## About me
+## 🚀 About me
 
-I'm a Software Engineer with over 5 years of experience building web systems, APIs, and scalable backend architectures.
+I'm a Software Engineer with 5+ years of experience building scalable backend systems, APIs, and distributed workloads.
 
-My main focus is backend engineering, system design, and performance. I have strong experience with asynchronous processing, queues, distributed workloads, and clean architecture principles.
+My focus is designing resilient architectures using queues, workers, and clean architecture principles.
 
-I also have experience with frontend technologies, which helps me build complete and well-integrated systems.
+I build systems prepared for real-world scale.
 
 ---
 
-## Main expertise
+## 🧠 Tech Stack
 
 ### Backend
-- Node.js
-- Java (Spring Boot)
-- REST APIs and integrations
-- Asynchronous processing
-- Redis and BullMQ
-- Background jobs and workers
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-red?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
 
-### Databases
-- PostgreSQL
-- MySQL
-- Prisma ORM
-- SQL performance and optimization
-- Database design
-
-### Architecture
-- Clean Architecture
-- SOLID principles
-- Layered architecture
-- Scalable system design
-- DTOs and data mapping
+---
 
 ### Frontend
-- React
-- Next.js
-- Angular
-- TypeScript
-- HTML and CSS
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
+
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+
+---
 
 ### DevOps
-- Docker
-- Nginx
-- Linux
-- CI/CD
-- Git
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-blue?style=for-the-badge)
 
 ---
 
-## What I build
+### Architecture & Systems
+![Clean Architecture](https://img.shields.io/badge/Clean-Architecture-blueviolet?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-Principles-important?style=for-the-badge)
+![Scalability](https://img.shields.io/badge/Scalable-Systems-success?style=for-the-badge)
+![Distributed Systems](https://img.shields.io/badge/Distributed-Systems-orange?style=for-the-badge)
 
-I focus on building systems such as:
+---
 
-- Scalable backend APIs
+## ⚙️ What I build
+
+- Scalable backend systems
+- Queue-based architectures
 - Video processing systems
-- Queue-based processing systems
+- REST APIs
+- Distributed workers
 - Automation systems
-- Distributed workloads
-- Production-ready backend services
 
 ---
 
-## Engineering principles I follow
+## 🏗️ Architecture focus
 
-- Backend should not execute heavy tasks directly
-- Use queues for heavy and asynchronous workloads
-- Systems must be designed to scale from the start
-- Clean and maintainable architecture is essential
-- Reliability is more important than quick hacks
-
----
-
-## Currently working on
-
-- Scalable video processing systems
-- Backend architecture with queue-based processing
-- AI integrations and LLM-based systems
-- High-performance backend services
-
----
-
-## Contact
-
-LinkedIn: https://www.linkedin.com/in/dev-pedro-hb-alves  
-GitHub: https://github.com/pedro-h-belchialves  
-
----
-
-## Languages
-
-- Portuguese — Native  
-- English — Fluent  
-- Spanish — Intermediate  
-
----
-
-## Goal
-
-Building systems that scale.
+```text
+Client → API → Queue → Workers → Database / Storage
